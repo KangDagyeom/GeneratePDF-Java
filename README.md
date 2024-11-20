@@ -1,6 +1,7 @@
 # GeneratePDF-Java
 ##Employee PDF Generator
 This is a simple Java application that generates a PDF file containing employee information. The application retrieves data from a table and saves it to a PDF file.
+![Local Image](images/ScreenShotApp.jpg)
 
 Features
 Export employee data (ID, Name, Telephone) to a PDF file.
